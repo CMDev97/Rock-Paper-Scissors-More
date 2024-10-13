@@ -14,8 +14,8 @@ To run this project, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/CMDev97/Rock-Paper-Scissors-More.git
+cd Rock-Paper-Scissors-More
 ```
 
 ### 2. Create and activate a virtual environment
